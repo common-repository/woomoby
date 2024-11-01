@@ -1,0 +1,9 @@
+#woomobyCarousel .item{
+    display:none;
+}
+#woomobyCarousel .item.active{
+    display:block;
+}
+.woomoby-slider-thumbs{
+    display:none;
+}
